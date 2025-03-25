@@ -5,6 +5,7 @@
 - HTML terdiri dari serangkaian elemen
 - Elemen HTML memberi tahu browser cara menampilkan konten dan  memberi label pada bagian konten seperti "ini adalah judul", "ini adalah paragraf", "ini adalah tautan", dan lain-lain.
 # Deklarasi serta Elemen HTML
+Elemen HTML didefinisikan oleh tag awal, beberapa konten, dan tag akhir
 - !DOCTYPE html : mendefinisikan bahwa dokumen ini adalah dokumen HTML5.
 - html : adalah elemen akar dari halaman HTML.
 - head : berisi informasi meta tentang halaman HTML.
@@ -13,4 +14,6 @@
 - h1 : mendefinisikan judul besar.
 - p : mendefinisikan sebuah paragraf
 
-Elemen HTML didefinisikan oleh tag awal, beberapa konten, dan tag akhir
+# Peramban Web
+Tujuan peramban web (Chrome, Edge, Firefox, Safari) adalah untuk membaca dokumen HTML dan menampilkannya dengan benar.
+Peramban tidak menampilkan tag HTML, tetapi menggunakannya untuk menentukan cara menampilkan dokumen:
