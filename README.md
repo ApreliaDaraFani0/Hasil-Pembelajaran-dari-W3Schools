@@ -27,6 +27,16 @@ Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen: < !DOCTYPE html 
 
 # Elemen HTML Bersarang
 Elemen HTML dapat bersarang (ini berarti suatu elemen dapat berisi elemen lain). Semua dokumen HTML terdiri dari elemen-elemen HTML yang bertingkat. Contoh berikut berisi empat elemen HTML ( < html >, < body >, < h1 > dan < p > ).
-- Elemen tersebut < html > merupakan elemen akar dan mendefinisikan keseluruhan dokumen HTML. Ia memiliki tag awal <html>dan tag akhir < /html >. Kemudian di dalam <html>elemen tersebut ada <body> elemen.
+- Elemen  < html > merupakan elemen akar dan mendefinisikan keseluruhan dokumen HTML. Ia memiliki tag awal <html>dan tag akhir < /html >. Kemudian di dalam <html>elemen tersebut ada <body> elemen.
+![image](https://github.com/user-attachments/assets/1890d9ff-8271-423f-a40f-bfc379138b02)
+- Elemen <body>mendefinisikan isi dokumen. Ia memiliki tag awal <body>dan tag akhir </body>. Kemudian, di dalam <body>elemen tersebut ada dua elemen lainnya: <h1>dan <p>.
+![image](https://github.com/user-attachments/assets/ab1c8d03-bd77-4ebf-894c-f53ea1e61e04)
+
 - Elemen ini < h1 > mendefinisikan sebuah judul. Ini memiliki tag awal < h1 >dan tag akhir < /h1 >.
 ![image](https://github.com/user-attachments/assets/d35ba181-af64-45c6-9919-e53eb8a22875)
+
+- Elemen <p>mendefinisikan sebuah paragraf. Ini memiliki tag awal <p>dan tag akhir </p>.
+- ![image](https://github.com/user-attachments/assets/ace3e2af-eeea-4c81-9be6-35c53b9f2b6d)
+
+- Elemen HTML tanpa konten disebut elemen kosong. Tag ini < br >mendefinisikan jeda baris, dan merupakan elemen kosong tanpa tag penutup.
+![image](https://github.com/user-attachments/assets/d61de388-1393-4bde-bf78-5aab03e9f7d4)
