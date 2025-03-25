@@ -42,3 +42,11 @@ Elemen HTML dapat bersarang (ini berarti suatu elemen dapat berisi elemen lain).
 - Elemen HTML tanpa konten disebut elemen kosong. Tag ini < br >mendefinisikan jeda baris, dan merupakan elemen kosong tanpa tag penutup.
   
 ![image](https://github.com/user-attachments/assets/d61de388-1393-4bde-bf78-5aab03e9f7d4)
+
+
+# Atribut HTML
+Semua elemen HTML dapat memiliki atribut, Atribut menyediakan informasi tambahan tentang elemen, Atribut selalu ditentukan di tag awal, Atribut biasanya datang dalam pasangan nama/nilai seperti: nama = " nilai "
+- Atribut href : Tag ini < a > mendefinisikan hyperlink. href Atribut menentukan URL halaman yang dituju oleh tautan tersebut.
+![Uploading image.png…]()
+
+- 
