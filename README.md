@@ -16,4 +16,7 @@ Elemen HTML didefinisikan oleh tag awal, beberapa konten, dan tag akhir
 
 # Peramban Web
 Tujuan peramban web (Chrome, Edge, Firefox, Safari) adalah untuk membaca dokumen HTML dan menampilkannya dengan benar.
-Peramban tidak menampilkan tag HTML, tetapi menggunakannya untuk menentukan cara menampilkan dokumen:
+Peramban tidak menampilkan tag HTML, tetapi menggunakannya untuk menentukan cara menampilkan dokumen
+
+# Dokumen HTML
+- Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen: < !DOCTYPE html >. Dokumen HTML itu sendiri dimulai dengan < html > dan diakhiri dengan < /html >. Bagian yang terlihat dari dokumen HTML berada di antara < body >dan < /body >.
